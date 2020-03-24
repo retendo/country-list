@@ -9,6 +9,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'AD', E'Andorra');
 INSERT INTO "list" ("id", "value") VALUES (E'AO', E'Angola');
 INSERT INTO "list" ("id", "value") VALUES (E'AI', E'Anguilla');
 INSERT INTO "list" ("id", "value") VALUES (E'AQ', E'Antarctica');
+INSERT INTO "list" ("id", "value") VALUES (E'AG', E'Antigua');
 INSERT INTO "list" ("id", "value") VALUES (E'AG', E'Antigua & Barbuda');
 INSERT INTO "list" ("id", "value") VALUES (E'AR', E'Argentina');
 INSERT INTO "list" ("id", "value") VALUES (E'AM', E'Armenia');
