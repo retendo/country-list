@@ -235,6 +235,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'TL', E'Timor-Leste');
 INSERT INTO "list" ("id", "value") VALUES (E'TG', E'Togo');
 INSERT INTO "list" ("id", "value") VALUES (E'TK', E'Tokelau');
 INSERT INTO "list" ("id", "value") VALUES (E'TO', E'Tonga');
+INSERT INTO "list" ("id", "value") VALUES (E'TT', E'Trinidad');
 INSERT INTO "list" ("id", "value") VALUES (E'TT', E'Trinidad & Tobago');
 INSERT INTO "list" ("id", "value") VALUES (E'TA', E'Tristan da Cunha');
 INSERT INTO "list" ("id", "value") VALUES (E'TN', E'Tunisia');
