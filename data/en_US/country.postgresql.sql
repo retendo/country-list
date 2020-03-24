@@ -242,6 +242,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'TM', E'Turkmenistan');
 INSERT INTO "list" ("id", "value") VALUES (E'TC', E'Turks & Caicos Islands');
 INSERT INTO "list" ("id", "value") VALUES (E'TV', E'Tuvalu');
 INSERT INTO "list" ("id", "value") VALUES (E'UM', E'U.S. Outlying Islands');
+INSERT INTO "list" ("id", "value") VALUES (E'VI', E'St. Croix');
 INSERT INTO "list" ("id", "value") VALUES (E'VI', E'U.S. Virgin Islands');
 INSERT INTO "list" ("id", "value") VALUES (E'UG', E'Uganda');
 INSERT INTO "list" ("id", "value") VALUES (E'UA', E'Ukraine');
