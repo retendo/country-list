@@ -158,6 +158,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'MM', E'Myanmar (Burma)');
 INSERT INTO "list" ("id", "value") VALUES (E'NA', E'Namibia');
 INSERT INTO "list" ("id", "value") VALUES (E'NR', E'Nauru');
 INSERT INTO "list" ("id", "value") VALUES (E'NP', E'Nepal');
+INSERT INTO "list" ("id", "value") VALUES (E'NL', E'Holland');
 INSERT INTO "list" ("id", "value") VALUES (E'NL', E'Netherlands');
 INSERT INTO "list" ("id", "value") VALUES (E'NC', E'New Caledonia');
 INSERT INTO "list" ("id", "value") VALUES (E'NZ', E'New Zealand');
