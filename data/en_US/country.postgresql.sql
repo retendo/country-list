@@ -260,6 +260,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'VA', E'Vatican City');
 INSERT INTO "list" ("id", "value") VALUES (E'VE', E'Venezuela');
 INSERT INTO "list" ("id", "value") VALUES (E'VN', E'Vietnam');
 INSERT INTO "list" ("id", "value") VALUES (E'WF', E'Wallis & Futuna');
+INSERT INTO "list" ("id", "value") VALUES (E'EH', E'West Indies');
 INSERT INTO "list" ("id", "value") VALUES (E'EH', E'Western Sahara');
 INSERT INTO "list" ("id", "value") VALUES (E'YE', E'Yemen');
 INSERT INTO "list" ("id", "value") VALUES (E'ZM', E'Zambia');
