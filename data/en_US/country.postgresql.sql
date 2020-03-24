@@ -62,7 +62,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'HR', E'Croatia');
 INSERT INTO "list" ("id", "value") VALUES (E'CU', E'Cuba');
 INSERT INTO "list" ("id", "value") VALUES (E'CW', E'Curaçao');
 INSERT INTO "list" ("id", "value") VALUES (E'CY', E'Cyprus');
-INSERT INTO "list" ("id", "value") VALUES (E'CZ', E'Czechia');
+INSERT INTO "list" ("id", "value") VALUES (E'CZ', E'Czech Republic');
 INSERT INTO "list" ("id", "value") VALUES (E'DK', E'Denmark');
 INSERT INTO "list" ("id", "value") VALUES (E'DG', E'Diego Garcia');
 INSERT INTO "list" ("id", "value") VALUES (E'DJ', E'Djibouti');
