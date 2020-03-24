@@ -40,6 +40,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BF', E'Burkina Faso');
 INSERT INTO "list" ("id", "value") VALUES (E'BI', E'Burundi');
 INSERT INTO "list" ("id", "value") VALUES (E'KH', E'Cambodia');
 INSERT INTO "list" ("id", "value") VALUES (E'CM', E'Cameroon');
+INSERT INTO "list" ("id", "value") VALUES (E'CA', E'Newfoundland');
 INSERT INTO "list" ("id", "value") VALUES (E'CA', E'Canada');
 INSERT INTO "list" ("id", "value") VALUES (E'IC', E'Canary Islands');
 INSERT INTO "list" ("id", "value") VALUES (E'CV', E'Cape Verde');
