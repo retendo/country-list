@@ -246,6 +246,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'VI', E'U.S. Virgin Islands');
 INSERT INTO "list" ("id", "value") VALUES (E'UG', E'Uganda');
 INSERT INTO "list" ("id", "value") VALUES (E'UA', E'Ukraine');
 INSERT INTO "list" ("id", "value") VALUES (E'AE', E'United Arab Emirates');
+INSERT INTO "list" ("id", "value") VALUES (E'GB', E'Scotland');
 INSERT INTO "list" ("id", "value") VALUES (E'GB', E'United Kingdom');
 INSERT INTO "list" ("id", "value") VALUES (E'US', E'United States');
 INSERT INTO "list" ("id", "value") VALUES (E'UY', E'Uruguay');
